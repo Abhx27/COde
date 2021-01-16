@@ -8,7 +8,7 @@ class Blocks extends BaseClass {
     //this.Visiblity = 255;
   }
 
-  display(){
+  /*display(){
     //console.log(this.body.speed);
     if(this.body.speed < 1){
       super.display();
@@ -29,6 +29,6 @@ class Blocks extends BaseClass {
       }
     }
 
-
+*/
     }
 //}
