@@ -5,7 +5,7 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 var engine, world;
-var backgroundImg,platform;
+var platform;
 var hex, slingshot;
 
 var gameState = "onSling";
