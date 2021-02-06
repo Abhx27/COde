@@ -25,7 +25,7 @@ class Blocks extends BaseClass {
   
     score(){
       if (this.Visiblity < 0 && this.Visiblity > -1005){
-        score+5;
+        score+=5;
       }
     }
 
