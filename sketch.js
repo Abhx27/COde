@@ -32,12 +32,12 @@ ground = new Ground(945,235,150,10)
 
 
 
-blocks7 = new Blocks(600,200);
-blocks8 = new Blocks(550,200);
-blocks9 = new Blocks(500,200);
-blocks10 = new Blocks(575,150);
-blocks11 = new Blocks(525,150);
-blocks12 = new Blocks(550,100);
+blocks7 = new Blocks(600,300);
+blocks8 = new Blocks(550,300);
+blocks9 = new Blocks(500,300);
+blocks10 = new Blocks(575,250);
+blocks11 = new Blocks(525,250);
+blocks12 = new Blocks(550,200);
 ground1 = new Ground(545,350,150,10)
 
 }
